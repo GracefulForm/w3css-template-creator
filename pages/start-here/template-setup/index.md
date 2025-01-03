@@ -10,7 +10,6 @@
 ## 2. Base Code
 1. Paste the follwing code in your *index.html* file.
 2. Change the title text.
-3. As you choose your different website sections, remember to paste them between the "Everything goes below/above this!" comments.
 
 ```html
 <!DOCTYPE html>
@@ -35,3 +34,10 @@
 </script>
 </html>
 ```
+
+## 3. Build Your Template
+* Choose sections for your template from the menu.
+* Remember to only paste them between the "Everything goes below/above this!" comments.
+
+
+  
