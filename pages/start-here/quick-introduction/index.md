@@ -11,3 +11,13 @@ Just copy the features that you want to quickly create a new professional websit
 * Uses the lightweight and easy to edit [w3.css](https://www.w3schools.com/w3css/default.asp) framework.
 * Code comments help you quickly find where to edit colors, text, or images.
 * No registration or link back required.
+
+## Roadmap
+
+- [x] Menus
+- [x] Text Headers
+- [] Image Headers
+- [] Text Features
+- [] Image Features
+- [] Text and Image Features
+- [] Footers
