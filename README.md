@@ -1,2 +1,2 @@
-# w3css-template-creator
-Quickly create an html template using w3.css
+# Easy w3.css Template Creator
+Quickly create html templates by pasting the samples that you want and editing your colors, text, and images.
