@@ -10,6 +10,7 @@ We prefer using w3.css to other frameworks, such as Bootstrap, because of the ve
 Just copy the features that you want to quickly create a new professional website template. 
 * Uses the lightweight and easy to edit [w3.css](https://www.w3schools.com/w3css/default.asp) framework.
 * Code comments help you quickly find where to edit colors, text, or images.
+* Extra color classes added to make it easier to see where to edit colors.
 * No registration or link back required.
 
 ## Roadmap

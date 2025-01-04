@@ -9,9 +9,9 @@
 
 ```html
 <header class="w3-container w3-content w3-center w3-padding-64">
-	<h1>Rocky Mountain Canoe Co.</h1>
-	<h4>est. 1994</h4>
-	<p style="font-style: italic;">Your Vehicle to Adventure</p>
+	<h1 class="w3-text-black">Rocky Mountain Canoe Co.</h1>
+	<h4 class="w3-text-gray">est. 1994</h4>
+	<p class="w3-text-black" style="font-style: italic;">Your Vehicle to Adventure</p>
 </header>
 ```
 

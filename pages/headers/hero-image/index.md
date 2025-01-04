@@ -1,4 +1,4 @@
-# Header Image
+# Hero Image
 <!-- position: 3 -->
 
 ### Sample Image
@@ -19,5 +19,6 @@
 
 ### More Information
 
+- A hero image covers the screen when the visitor opens the page.
 - Don't forget to update the image's filename.
 - Change the text color to black or white show better with a light or dark image.
