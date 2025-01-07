@@ -3,7 +3,7 @@
 
 ### Sample Image
 
-![](http://localhost/w3cssTemplateMaker/bludit/bl-content/uploads/pages/b4575697a109792b6dab8acbeabc7764/hero_banner.png)
+![](https://raw.githubusercontent.com/GracefulForm/w3css-template-creator/refs/heads/master/pages/images/hero_banner.png)
 
 ### Code
 
