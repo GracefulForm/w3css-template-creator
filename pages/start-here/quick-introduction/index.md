@@ -17,7 +17,7 @@ Just copy the features that you want to quickly create a new professional websit
 
 - [x] Menus
 - [x] Text Headers
-- [] Image Headers
+- [x] Image Headers
 - [] Text Features
 - [] Image Features
 - [] Text and Image Features
