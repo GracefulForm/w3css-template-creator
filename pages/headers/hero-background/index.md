@@ -1,4 +1,4 @@
-# Hero Image
+# Hero Background 
 <!-- position: 4 -->
 
 ### Sample Image
